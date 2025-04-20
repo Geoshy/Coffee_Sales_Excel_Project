@@ -118,7 +118,7 @@ yyyyy-mm-dd -> dd-mmm-yyyy
 # **5. Dynamic Dashboard:**
 I use Excel to create a dynamic dashboard for the coffee sales. The full Excel file that contains the analysis and the dashboard is [here](Excel_File).
 
-<video controls src="Figs/Visualization/Dashboard_Video.mp4" title="Title"></video>
+![alt text](Figs/Visualization/Dashboard.PNG)
 
 # **6. The Analysis & Insights:**
 >The sales data for different coffee types ***(Arabica, Excelsa, Liberica, Robusta)*** show ***fluctuations over time from 2019 to 2022***. There are noticeable peaks and troughs, indicating ***seasonality or external factors affecting sales***.
